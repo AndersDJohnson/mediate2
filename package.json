@@ -12,7 +12,10 @@
   "dependencies": {
     "express": "^4.0.0",
     "connect": "^2.14.4",
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "express-params": "0.0.3",
+    "traverse": "^0.6.6",
+    "getobject": "^0.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.0.17"
